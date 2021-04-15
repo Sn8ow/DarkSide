@@ -5,6 +5,12 @@ DarkSide is an HTTP DoS Test Tool.
 
 Attack Vector exploited: HTTP Keep Alive + NoCache
 
+# Downloading 
+```
+git clone https://github.com/Sn8ow/DarkSide.git
+cd DarkSide (As ROOT)
+
+
 # Usage
 
      USAGE: ./darkside.py <url> [OPTIONS]
