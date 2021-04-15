@@ -9,6 +9,7 @@ Attack Vector exploited: HTTP Keep Alive + NoCache
 ```
 git clone https://github.com/Sn8ow/DarkSide.git (as ROOT)
 cd DarkSide 
+chmod 777 darkside.py
 ./darkside.py <url> [options] or  proxychains ./darkside.py  <url>
 ```
 
