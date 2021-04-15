@@ -19,4 +19,15 @@ Attack Vector exploited: HTTP Keep Alive + NoCache
         -n, --nosslcheck   Do not verify SSL Certificate                    (default: True)
         -h, --help         Shows this help
 
+## Utilities
+* util/getuas.py - Fetches user-agent lists from http://www.useragentstring.com/pages/useragentstring.php subpages (ex: ./getuas.py "http://www.useragentstring.com/pages/useragentstring.php?name=All") *REQUIRES BEAUTIFULSOUP4*
+* res/lists/useragents - Text lists (one per line) of User-Agent strings (from http://www.useragentstring.com)
 
+
+## License
+This software is distributed under the GNU General Public License version 3 (GPLv3)
+
+
+
+## LEGAL NOTICE
+THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
