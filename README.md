@@ -7,9 +7,10 @@ Attack Vector exploited: HTTP Keep Alive + NoCache
 
 # Downloading 
 ```
-git clone https://github.com/Sn8ow/DarkSide.git
-cd DarkSide (As ROOT)
-
+git clone https://github.com/Sn8ow/DarkSide.git (as ROOT)
+cd DarkSide 
+./darkside <url> [options] or  proxychains ./darkside.py  <url>
+```
 
 # Usage
 
